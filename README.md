@@ -52,3 +52,7 @@ In the Filter with AND, OR, and NOT lab, take a screenshot of the SQL query you 
 To finalize the document and make its purpose clear to potential employers, be sure to complete the Project description and Summary sections of the Apply filters to SQL queries template. 
 In the Project description section, give a general overview of the scenario and what you accomplish through SQL. Write two to four sentences.
 In the Summary section, provide a short summary of the previous tasks and connect them to the scenario. Write approximately two to four sentences.
+
+<h1> Project File </h1>
+
+<a href="https://github.com/Ghost25-tech/SQL-Queries-Filters/blob/main/Apply%20filters%20to%20SQL%20queries.pdf">Click here for the project file</a>
